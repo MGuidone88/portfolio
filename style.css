@@ -61,7 +61,7 @@
     flex-direction: column;
     justify-content: space-between;
     text-decoration: none;
-    height: 30vh;
+    min-height: 30vh;
 
 }
 .card-img-top{
