@@ -86,7 +86,7 @@
  .cajaContacto {
      background-color: #3c3c3c;
      text-align: center;
-     height: 20vh;
+     min-height: 20vh;
      border-top: 10px solid white;
      display: flex;
      flex-direction: column;
